@@ -1,5 +1,7 @@
 # Car Park - management
 
+A simple program to manage a car park
+
 ## Languages Used :
  > - Python 2.7
 
